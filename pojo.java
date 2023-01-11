@@ -1,5 +1,5 @@
 package oops;
-// POJA CLASS
+// POJO CLASS
 public class Point {
 	int x, y;
 
